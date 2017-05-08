@@ -15,7 +15,6 @@ print("Loaded texts")
 bot = TeleBot(config.TOKEN)
 db = Redis("localhost", decode_responses=True)
 admins = functions.get_sudo()
-db.flushall()
 # ===================================== #
 
 print(
