@@ -1,0 +1,8 @@
+{
+  "en": {
+    "START": "Hi, welcome to {}\nYou can use our bot for free.\nThis is an open source Project,\nEnjoy."
+  },
+  "fa": {
+    "START": "سلام, به {} خوش آمدید\n شما میتوانید به صورت رایگان از ربات ما استفاده کنید.\nاین یک پروژه متن باز است,\nلذت ببرید."
+  }
+}
